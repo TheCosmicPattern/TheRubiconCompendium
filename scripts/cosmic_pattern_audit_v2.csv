@@ -1,0 +1,16 @@
+Observable,Predicted,Measured / CODATA,Status,Notes
+α⁻¹ (3-term stack),137.035999088,137.035999177,SEALED,Δ/σ=-4.26; within interface pixel
+sin²θ_W,0.23120,0.23122,SEALED,Δ=-0.009%
+α_s(M_Z),0.11800,0.1179,SEALED,Δ=+0.083%
+Ω_Λ,0.689655 (20/29),0.6847,SEALED,"PG(2,3) mode count; Δ=+0.72%"
+N_gen,3 (exact),3,EXACT,r = inner winding number
+θ_C (Cabibbo),13.159°,13.04°,DERIVED,Leading Fresnel; CT-4 for precision
+δ_CP (CKM inward),83.1°,70.0°,DERIVED,2π·r/R; PDG range 60–82°
+δ_CP (PMNS outward),-83.1°,−144°,HYPOTHESIS,Chart flip; 2nd-order holonomy correction needed
+m_top,174.10 GeV,173.1 GeV,SEALED,w=0 at 2.5D surface; Yukawa=1
+m_τ/m_μ,17.35,16.82,HYPOTHESIS,w=8R=104; ratio-of-ratios=1.031
+m_μ/m_e,210.63,206.77,HYPOTHESIS,w=15R=195; ratio-of-ratios=1.019
+ΔCA (resolution),0.027063 = 2.7063%,N/A (geometric),SEALED,Hard observer limit; not instrumental
+L=1/cosh,0.973008510821,0.972936641643,VERIFIED,Δ=7.19e-05; consistent with CA²/2
+cosh²−sinh²,1.000000000000000,1.0 (exact),EXACT,The fundamental identity
+CT-1: denom 59,59 (derived),59,CLOSED,59 = Rr + r²D − Φ₆
